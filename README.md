@@ -1,1 +1,1 @@
-# MasterThesis
+# DiplomaThesis
