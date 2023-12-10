@@ -1,2 +1,2 @@
 # DiplomaThesis
-![alt text]([https://github.com/mrvas7/DiplomaThesis/blob/main/pics/pcb0.jpg])
+![alt text](pics/pcb0.png)
