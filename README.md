@@ -76,4 +76,4 @@ The objective is to control either the torque or the speed of the motor.
       - [ ] Mosfet overvoltage
       - [ ] DC bus capacitance
    - [ ] Open Loop Control
-   - [ ] Closed Loop Contro
+   - [ ] Closed Loop Control
