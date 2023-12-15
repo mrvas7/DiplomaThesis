@@ -6,7 +6,7 @@
 ## Overview
 This repo presents the design and implementation of a T-Type inverter to drive a 3-phase Motor in the framework of my Diploma Thesis. 
 
-### The following topic will be elaborated:
+### The following topics will be elaborated:
 - System Modeling and  Modulation Techniques
 - Motor Control Scheme
 - PCB design
